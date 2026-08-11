@@ -1,0 +1,3 @@
+the name inside the Agent() is different from the root_agent outside the Agent().
+ADK command-line tools look for a Python variable named root_agent as the entry point to your agent
+        system. This is a convention that allows ADK to discover and run your agent.
